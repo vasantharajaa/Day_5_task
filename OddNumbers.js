@@ -1,3 +1,5 @@
+//1.Print odd numbers in an array
+
 //Anonymous function
 /*let arr =[2,3,4,6,9,11];
 const odd=function(){
